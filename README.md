@@ -1,7 +1,7 @@
-<img src="https://img.freepik.com/free-vector/programming-typographic-header-building-development-process-web-page-website-development-codding-digital-specialist-isolated-flat-illustration_613284-1440.jpg?w=1380&t=st=1692617959~exp=1692618559~hmac=30b6f1874fa642f793eb35fc168ee9962ad398645542d394f91d8a8c0c2ae8c0" alt="Coding">
+
 <h1 align="center">Hi 👋, I'm Osman Yıldız</h1>
 <h3 align="center">A curious and passionate frontend developer from Turkey</h3>
-<img  src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" alt="Funny Cat" align="right" width="200px">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osmanyildiz98&label=Profile%20views&color=0e75b6&style=flat" alt="osmanyildiz98" /> </p>
 
